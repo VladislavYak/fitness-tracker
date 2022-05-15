@@ -1,2 +1,2 @@
-# python_oop_mastering
-simple oop python 
+# hw_python_oop
+Sprint 2. Итоговый проект.
